@@ -7,7 +7,7 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
 - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
+- 📫 How to reach me: zaedanm@gmail.com
 - ⚡ Fun fact: Father of a daughter
 
 ### Tech Stack
