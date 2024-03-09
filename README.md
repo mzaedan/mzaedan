@@ -19,7 +19,7 @@ An independent Software Engineer who loves to create and share projects about we
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/mzaedan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mzaedan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mzaedan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
