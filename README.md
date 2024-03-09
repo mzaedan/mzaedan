@@ -27,5 +27,5 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="https://www.linkedin.com/in/muhamad-zaedan-al-ghifari-6937a0293//">LinkedIn</a>
+- <a href="https://twitter.com/Zaedan1945">Twitter</a>
