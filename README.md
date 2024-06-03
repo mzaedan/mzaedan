@@ -4,7 +4,7 @@ I am a student of Information Technology at STMIK Mardira Indonesia, currently i
 
 
 - 🔭 I’m currently learning on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
+- 🌱 I’m currently learning about Frontend and Backend development
 - 💬 I'm open to discussions about frontend and backend development
 - 📫 How to reach me: zaedanm@gmail.com
 
