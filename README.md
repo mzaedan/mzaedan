@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Zaedan.
 
-I am a student of Information Technology at STMIK Mardira Indonesia, currently in my sixth semester. This README file provides an overview of my academic background, professional experience, and current activities. Feel free to explore and learn more about my journey and passion for technology.
+I am a student of Information Technology at STMIK Mardira Indonesia, currently in my eighth semester. This README file provides an overview of my academic background, professional experience, and current activities. Feel free to explore and learn more about my journey and passion for technology.
 
 
 - 🔭 I’m currently learning on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
